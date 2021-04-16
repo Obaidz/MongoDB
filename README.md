@@ -19,6 +19,11 @@ Rest of the methods are for validating and Flattening the JSON object.
 
 NOTE: DON'T use Pipeline with this, because in order to add API functionality, I'd to made this mode user friendly. But ecery thing is provided, you don't need to input any thing. It will use default JSON file. I emailed your team a week ago, I didn't receive any response, that's why I am going with this version. 
 
+API To TEST with,
+
+https://api.coindesk.com/v1/bpi/currentprice.json
+https://api.agify.io/?name=bella
+
 
 THANKS...
   
