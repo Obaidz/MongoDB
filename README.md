@@ -12,7 +12,7 @@ How to run:
 
 Code Base:
 
-  In order to run the API, I've added 2 methods. First one is sub_str(), this will remove 's' from 'https'. This has to be done other wise API's will not run on terminal because of SSL certificate security. 2nd method is api_method(), this uses sub_str() and returns contents of API.
+  In order to run the API, I've added 2 methods. First one is sub_str(), this will remove 's' from 'https'. This has to be done other wise API's will not run on terminal because of SSL certificate security. 2nd method is api_method(), this uses sub_str() and returns contents of API. Some API's like SpaceX etc will not run on terminal because of higher security measures. please use the given API below for testing.
   
 Rest of the methods are for validating and Flattening the JSON object.
 
